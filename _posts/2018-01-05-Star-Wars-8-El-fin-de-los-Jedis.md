@@ -7,6 +7,7 @@ layout: post
 
 Con Los últimos Jedi, Star Wars termina por destruir todo lo que hacía grande a las sagas originales para convertirse en un burdo y mediocre producto de entretenimiento al más puro estilo del Marvel de Disney: prescindible y sin trasfondo, una obra que intenta ser inteligente pero es incapaz de tomar riesgos artísticos, una marca que vive de crear y destruir personajes a su antojo pero que nunca los desarrolla porque nada tiene para contar. 
 <!--more-->
+
 La saga original de Star Wars no fue perfecta, pero era una obra que tenía algo que decir, que no temía tomar riesgos y que se mantuvo, la mayoría de las veces, fiel a su universo y a la visión de su creador. 
 
 Hoy tenemos un pastiche, producto del marketing, que no le importa ser a ratos un Señor de los Anillos y a los cinco minutos convertirse en un James Bond, no le importa crear guardianes Sith con la estética de Power Rangers ni tener enemigos que parecen sacados de Harry Potter, tampoco siente el más mínimo remordimiento al desmitificar la fuerza para convertirla en un superpoder, como sacado de los X-Men. Y no le duele porque a este nuevo Star Wars solo le importa vender.
