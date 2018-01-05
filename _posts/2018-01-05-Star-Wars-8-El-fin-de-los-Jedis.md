@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 ---
 ![Star Wars 8: Last Jedi]({{ site.baseurl }}/images/star-wars-last-jedi.PNG)
