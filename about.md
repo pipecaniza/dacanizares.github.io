@@ -1,15 +1,10 @@
 ---
 layout: page
-title: About
+title: Acerca de
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+¡Hola! Mi nombre Daniel y soy programador, este es mi blog personal dónde escribo sobre programación, videojuegos y críticas. Junto con mi hermano soy cofundador de The Science of Code (http://www.thescienceofcode.com) y actualmente trabajamos en equilaterus desarrollando un framework para ASP Core y videojuegos indie (http://equilaterus.com).
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
