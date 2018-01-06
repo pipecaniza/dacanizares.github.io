@@ -8,7 +8,7 @@ tsocurl: http://thescienceofcode.azurewebsites.net/Articles/Show/54d6f5ec1a28752
 ![La vieja escuela]({{ site.baseurl }}/images/Commodore64withdisk.jpg)
 
 {:.img-footer}
-[Photo](http://commons.wikimedia.org/wiki/File%3ACommodore64withdisk.jpg) By PrixeH [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
+[Photo](http://commons.wikimedia.org/wiki/File%3ACommodore64withdisk.jpg){:target='_blank'} By PrixeH [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.en){:target='_blank'}
 
 Como muchos de ustedes crecí al lado de los videojuegos. En menos de 20 años vi envejecer muchas consolas, fui testigo de los 4, 8 y 16 bits. Sí, aunque parezca increíble vi juegos de 16 colores que eran más inteligentes y divertidos que muchos otros repletos de efectos y sonidos: en esa época lo más parecido a Assassins Creed era Prince of Persia y cuál Call of Duty, Mario Bros era lo más emocionante.
 <!--more-->
