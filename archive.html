@@ -5,11 +5,7 @@ permalink: /archive/
 published: true
 ---
 
-<h1>Archivo</h1>
+{% for post in site.posts %}    
+    {{ post.date | date: "%d/%m/%Y" }}: <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
 
-<div class="posts">
-  {% for post in site.posts %}    
-      {{ post.date | date: "%d/%m/%Y" }}: <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-  
-  {% endfor %}
-</div>
+{% endfor %}
