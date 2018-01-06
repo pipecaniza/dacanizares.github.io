@@ -1,14 +1,15 @@
 ---
-layout: default
+layout: page
+title: Archivo
+permalink: /archive/
 published: true
 ---
 
 <h1>Archivo</h1>
 
 <div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+  {% for post in site.posts %}    
       {{ post.date | date: "%d/%m/%Y" }}: <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    </article>
+  
   {% endfor %}
 </div>
