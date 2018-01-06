@@ -3,6 +3,7 @@ published: true
 title: La vieja escuela
 layout: post
 license: ccbysa
+tsocurl: http://thescienceofcode.azurewebsites.net/Articles/Show/54d6f5ec1a28752a24f8eb7f
 ---
 ![La vieja escuela]({{ site.baseurl }}/images/Commodore64withdisk.jpg)
 
