@@ -2,6 +2,7 @@
 published: true
 title: La vieja escuela
 layout: post
+license: ccbysa
 ---
 ![La vieja escuela]({{ site.baseurl }}/images/Commodore64withdisk.jpg)
 [Photo](http://commons.wikimedia.org/wiki/File%3ACommodore64withdisk.jpg) By PrixeH [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
